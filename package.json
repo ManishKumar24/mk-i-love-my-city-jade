@@ -4,6 +4,7 @@
   "description": "i-love-my-city app with jade templating engine",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manish",
@@ -13,3 +14,6 @@
     "jade": "^1.11.0"
   }
 }
+
+
+ 
